@@ -1,0 +1,37 @@
+[{
+    "name": "balon",
+    "price": 10,
+    "amount": 200,
+    "category": "children"
+  },{
+    "name": "banana",
+    "price": 7,
+    "amount": 80,
+    "category": "food"
+  },{
+    "name": "pazzel",
+    "price": 29,
+    "amount": 100,
+    "category": "children"
+  },{
+    "name": "orange",
+    "price": 6,
+    "amount": 500,
+    "category": "food"
+  },{
+    "name": "computer",
+    "price": 3999,
+    "amount": 150,
+    "category": "electronic"
+  },{
+    "name": "table",
+    "price": 800,
+    "amount": 30,
+    "category": "home"
+},{
+    "name": "air-conditioner",
+    "price": 4500,
+    "amount": 50,
+    "category": "electronic"
+  }
+]
